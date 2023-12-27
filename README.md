@@ -1,6 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQE6yfiZyUP5TA/profile-displaybackgroundimage-shrink_350_1400/0/1703702352060?e=1709164800&v=beta&t=qMsnRf0o1978qKYFeWpVU7gwWnjLrW5ax7ZM_qR7UeI)
 <h1 align="center">Hi 👋, I'm Arnab Kumar Das</h1>
-<h3 align="center">Investing my youth into logic-based creativity, I'm a front-end developer, Problem solver, Java Programmer and a Designer.</h3>
+<h3 align="center"> I'm a Front-end developer, Problem solver, Java Programmer and a Designer. Pursuing B.Tech in Information Technology from Kalyani Government Engineering College. </h3>
+<h4 align="center">I love to explore and learn new things. </h4>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-batsy&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-batsy" /> </p>
@@ -9,23 +11,21 @@
 
 - 🔭 I’m currently working on [StockMate App](https://github.com/Arnab-batsy/Stock-Mate)
 
-- 🌱 I’m currently learning **Next.js, Express.js, EJS, PostgreSQL, DBMS and DSA**
+- 🌱 I’m currently learning **Express.js, EJS, PostgreSQL, DBMS and DSA**
 
-- 👯 I’m looking to collaborate on [Emojipedia](https://github.com/Arnab-batsy/Emojipedia)
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 🤝 I’m looking for help with [Keeper App](https://github.com/Arnab-batsy/Keeper-App)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arnab-batsy](https://github.com/Arnab-batsy)
 
-- 📝 I regularly write articles on [https://twitter.com/_arghya_ad_](https://twitter.com/_arghya_ad_)
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Java, OOP and Computer Networks.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, OOP and Computer NetworksJava, C++**
+- 📫 My contact- **arnab.kumar.das3000@gmail.com**
 
-- 📫 How to reach me **arnab.kumar.das3000@gmail.com**
+- 📄 Know about my experiences- [My resume](https://drive.google.com/file/d/1aZTa1f0mcxoqzCjtupDKOxmiG7kjJM0r/view)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aZTa1f0mcxoqzCjtupDKOxmiG7kjJM0r/view](https://drive.google.com/file/d/1aZTa1f0mcxoqzCjtupDKOxmiG7kjJM0r/view)
-
-- ⚡ Hobby **I love singing and playing my guitar when I'm not coding.**
+- ⚡ Hobby- **I love singing and playing my guitar when I'm not coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
