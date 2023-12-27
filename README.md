@@ -42,22 +42,33 @@
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> 
- 
 <span>Programming Languages:</span><br><br>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bootstrap-7410f0?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a> &nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c%2B%2B-005697?style=for-the-badge&logo=c%2B%2B&labelColor=6295cb" /></a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css-254bdd?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a> &nbsp;
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/expressjs-212121?style=for-the-badge&logo=javascript&logoColor=white&labelColor=e9be0f" /></a> &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-eb4c1c?style=for-the-badge&logo=figma&logoColor=white&labelColor=1bb6f7" alt="figma" /></a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a> &nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html-dd4b25?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a> &nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/java-0d86c1?style=for-the-badge" alt="java" /></a> &nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c%2B%2B-005697?style=for-the-badge&logo=c%2B%2B&labelColor=6295cb" alt="Cpp"/></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-efd81d?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /></a> &nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linux-363636?style=for-the-badge&logo=linux" alt="linux" /></a> &nbsp;
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/npm-c53635?style=for-the-badge&logo=npm&logoColor=white" alt="nodejs" /></a>&nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/photoshop-2fa3f7?style=for-the-badge&logo=adobe&logoColor=001d34" alt="photoshop" /></a>&nbsp;
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sql-d47131?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>&nbsp;
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sql-d47131?style=for-the-badge&logo=postgresql&logoColor=white" alt="Sql" /></a>&nbsp;
+<br>
+<br>
+<span>Web dev:</span><br><br>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html-dd4b25?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a> &nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css-254bdd?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a> &nbsp;
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bootstrap-7410f0?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a> &nbsp;
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react&logoColor=5ed3f3" alt="react" /></a>&nbsp;
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/npm-c53635?style=for-the-badge&logo=npm&logoColor=white" alt="nodejs" /></a>&nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/expressjs-212121?style=for-the-badge&logo=javascript&logoColor=white&labelColor=e9be0f" alt="expressjs"/></a> &nbsp;
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/wordpress-32373c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/></a> &nbsp;
+<br>
+<br>
+<span>Designing and Editing:</span><br><br>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/canva-4659e3?style=for-the-badge&logo=canva&logoColor=white&labelColor=02bcc7" alt="canva" /></a> &nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-eb4c1c?style=for-the-badge&logo=figma&logoColor=white&labelColor=1bb6f7" alt="figma" /></a> &nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/photoshop-2fa3f7?style=for-the-badge&logo=adobe&logoColor=001d34" alt="photoshop" /></a>&nbsp;
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/premiere%20pro-000058?style=for-the-badge&logo=adobe&logoColor=white" alt="premierepro" /></a>&nbsp;
+<br>
+<br>
+<span>Other:</span><br><br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a> &nbsp;
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linux-363636?style=for-the-badge&logo=linux" alt="linux" /></a> &nbsp;
 </p>
 
 <h3 align="left">Support:</h3>
