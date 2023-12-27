@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [StockMate App](https://github.com/Arnab-batsy/Stock-Mate)
 
-- 🌱 I’m currently learning **Express.js, EJS, PostgreSQL, DBMS and DSA**
+- 🌱 I’m currently learning **Express.js, EJS, DBMS and DSA**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
@@ -18,11 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Arnab-batsy)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Java, OOP and Computer Networks.**
-
 - 📫 My contact- **arnab.kumar.das3000@gmail.com**
 
 - 📄 Know about my experiences- [My resume](https://drive.google.com/file/d/1aZTa1f0mcxoqzCjtupDKOxmiG7kjJM0r/view)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Java, OOP and Computer Networks.**
 
 - ⚡ Hobby- I love singing and playing my guitar when I'm not coding.
 
@@ -43,12 +43,22 @@
 
 <p align="left"> 
  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<span>Programming Languages:</span><br><br>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bootstrap-7410f0?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a> &nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c%2B%2B-005697?style=for-the-badge&logo=c%2B%2B&labelColor=6295cb" /></a> &nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css-254bdd?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a> &nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/expressjs-212121?style=for-the-badge&logo=javascript&logoColor=white&labelColor=e9be0f" /></a> &nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-eb4c1c?style=for-the-badge&logo=figma&logoColor=white&labelColor=1bb6f7" alt="figma" /></a> &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a> &nbsp;
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html-dd4b25?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a> &nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/java-0d86c1?style=for-the-badge" alt="java" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-efd81d?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /></a> &nbsp;
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linux-363636?style=for-the-badge&logo=linux" alt="linux" /></a> &nbsp;
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/npm-c53635?style=for-the-badge&logo=npm&logoColor=white" alt="nodejs" /></a>&nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/photoshop-2fa3f7?style=for-the-badge&logo=adobe&logoColor=001d34" alt="photoshop" /></a>&nbsp;
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sql-d47131?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>&nbsp;
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react&logoColor=5ed3f3" alt="react" /></a>&nbsp;
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arghya_ad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arghya_ad" /></a></p><br><br>
