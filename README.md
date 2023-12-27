@@ -26,7 +26,7 @@
 
 - ⚡ Hobby- I love singing and playing my guitar when I'm not coding.
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <p align="center">
 <a href="https://twitter.com/_arghya_ad_" target="blank"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="_arghya_ad_" /></a>&nbsp;
@@ -70,16 +70,15 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a> &nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linux-363636?style=for-the-badge&logo=linux" alt="linux" /></a> &nbsp;
 </p>
+<hr>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arghya_ad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arghya_ad" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-batsy&show_icons=true&locale=en&layout=compact" alt="arnab-batsy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnab-batsy&show_icons=true&locale=en" alt="arnab-batsy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-batsy&" alt="arnab-batsy" /></p>
-
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/arghya_ad"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arghya_ad" /></a></p><br><br>
+<hr>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-batsy&show_icons=true&locale=en&layout=compact" alt="arnab-batsy" /></p>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arnab-batsy&show_icons=true&locale=en" alt="arnab-batsy" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-batsy&" alt="arnab-batsy" /></p>
 
 <!--
 **Arnab-batsy/Arnab-batsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
