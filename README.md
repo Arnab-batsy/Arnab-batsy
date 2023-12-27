@@ -33,7 +33,6 @@
 <a href="https://linkedin.com/in/arghya-ad" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin" alt="arghya-ad" /></a>&nbsp;
 <a href="https://fb.com/arnabdas.ad3000" target="blank"><img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook" alt="arnabdas.ad3000" /></a>&nbsp;
 <a href="https://instagram.com/arghya_ad_" target="blank"><img src="https://img.shields.io/badge/instagram-f6096c?style=for-the-badge&logo=instagram&logoColor=white" alt="arghya_ad_" /></a>&nbsp;
-<a href="https://www.youtube.com/@Epiphany3000" target="blank"><img src="https://img.shields.io/badge/youtube-f60002?style=for-the-badge&logo=youtube" alt="arnabkrdas" /></a>&nbsp;
 <a href="https://www.leetcode.com/euphonic_coder" target="blank"><img src="https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=f89f1b" alt="euphonic_coder" /></a>&nbsp;
 <a href="https://codesandbox.com/arnab-batsy" target="blank"><img src="https://img.shields.io/badge/codesandbox-152025?style=for-the-badge&logo=codesandbox" alt="arnab-batsy" /></a>
 </p>
@@ -75,10 +74,11 @@
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/arghya_ad"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arghya_ad" /></a></p><br><br>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-batsy&show_icons=true&locale=en&layout=compact" alt="arnab-batsy" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arnab-batsy&show_icons=true&locale=en" alt="arnab-batsy" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-batsy&" alt="arnab-batsy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-batsy&show_icons=true&locale=en&layout=compact" alt="arnab-batsy" /></p>
+
+<h2>Contribution stats:<h2>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-batsy&" alt="arnab-batsy" /></p>
+<h3 align="center">💻Development, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
 
 <!--
 **Arnab-batsy/Arnab-batsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
