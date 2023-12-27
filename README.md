@@ -1,11 +1,9 @@
-![MasterHead](https://drive.google.com/file/d/1Q3bTJKe_HPxV9NTJpX1fC0ywzFP56wQD/view?usp=sharing)
+![MasterHead](https://media.licdn.com/dms/image/C4E16AQF0VIWqNJlSDw/profile-displaybackgroundimage-shrink_350_1400/0/1632397773115?e=1709164800&v=beta&t=92w7BrzGxO0xr_TbIZdo8trXAzsEnrKF-2ZTpKMd8gM)
 <h1 align="center">Hi 👋, I'm Arnab Kumar Das</h1>
 <h3 align="center">Investing my youth into logic-based creativity, I'm a front-end developer, Problem solver, Java Programmer and a Designer.</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1aCqwD8Zc5LeOXwLqumA3O9LhKjx3U33j/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-batsy&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-batsy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab-batsy" alt="arnab-batsy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_arghya_ad_" target="blank"><img src="https://img.shields.io/twitter/follow/_arghya_ad_?logo=twitter&style=for-the-badge" alt="_arghya_ad_" /></a> </p>
 
