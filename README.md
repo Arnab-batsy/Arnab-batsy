@@ -78,7 +78,7 @@
 
 <h2>Contribution stats:<h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-batsy&" alt="arnab-batsy" /></p>
-<h3 align="center">💻Development, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
+<h3 align="center">👨‍💻Design, 💻Develop, 🤝Contribute</h3> 
 
 <!--
 **Arnab-batsy/Arnab-batsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
