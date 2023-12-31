@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [Keeper App](https://github.com/Arnab-batsy/Keeper-App)
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/Arnab-batsy)
+- 👨‍💻 Former Front-End Developer Intern at [Suvidha Foundation](https://www.suvidhafoundationedutech.org/)
 
 - 📫 My contact- **arnab.kumar.das3000@gmail.com**
 
