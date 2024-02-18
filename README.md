@@ -8,21 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/_arghya_ad_" target="blank"><img src="https://img.shields.io/twitter/follow/_arghya_ad_?logo=twitter&style=for-the-badge" alt="_arghya_ad_" /></a> </p>
 
-- 🔭 I’m currently working on [StockMate App](https://github.com/Arnab-batsy/Stock-Mate)
+- 🔭 I’m currently working on [Epiphany Mart](https://github.com/Arnab-batsy/Epiphany-mart)
 
-- 🌱 I’m currently learning **Express.js, EJS, DBMS and DSA**
+- 🌱 I’m currently learning **Express.js, MongoDB, DBMS and DSA**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with [Keeper App](https://github.com/Arnab-batsy/Keeper-App)
+- 🤝 I’m looking for help with [Repo-List App](https://github.com/Arnab-batsy/Repo-List)
 
 - 👨‍💻 Former Front-End Developer Intern at [Suvidha Foundation](https://www.suvidhafoundationedutech.org/)
 
 - 📫 My contact- **arnab.kumar.das3000@gmail.com**
 
-- 📄 Know about my experiences- [My resume](https://drive.google.com/file/d/1aZTa1f0mcxoqzCjtupDKOxmiG7kjJM0r/view)
+- 📄 Know about my experiences- [My resume](https://drive.google.com/file/d/19OddwpCTe0yI2lNKulXEFDHYblgpTNg8/view?usp=sharing)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Java, OOP and Computer Networks.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Java, OOP, and Computer Networks.**
 
 - ⚡ Hobby- I love singing and playing my guitar when I'm not coding.
 
