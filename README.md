@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQE6yfiZyUP5TA/profile-displaybackgroundimage-shrink_350_1400/0/1703702352060?e=1709164800&v=beta&t=qMsnRf0o1978qKYFeWpVU7gwWnjLrW5ax7ZM_qR7UeI)
+<img width="1188" alt="LinkedIn banner" src="https://github.com/Arnab-batsy/Arnab-batsy/assets/78913766/8cdd1590-56d0-4b78-9ea6-bd6befffd010">
+
 <h1 align="center">Hi 👋, I'm Arnab Kumar Das</h1>
 <p align="center"> I'm a Front-end developer, Problem solver, Java Programmer and a Designer. Pursuing B.Tech in Information Technology from Kalyani Government Engineering College. I love to explore and learn new things. </p>
 <br>
