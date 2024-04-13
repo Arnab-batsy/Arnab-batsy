@@ -1,4 +1,4 @@
-<img width="1188" alt="LinkedIn banner" src="https://github.com/Arnab-batsy/Arnab-batsy/assets/78913766/8cdd1590-56d0-4b78-9ea6-bd6befffd010">
+![LinkedIn banner](https://github.com/Arnab-batsy/Arnab-batsy/assets/78913766/ce29b7d9-2b2e-4431-9409-d65379daf99f)
 
 <h1 align="center">Hi 👋, I'm Arnab Kumar Das</h1>
 <p align="center"> I'm a Front-end developer, Problem solver, Java Programmer and a Designer. Pursuing B.Tech in Information Technology from Kalyani Government Engineering College. I love to explore and learn new things. </p>
