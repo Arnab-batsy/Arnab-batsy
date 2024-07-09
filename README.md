@@ -1,7 +1,7 @@
 ![LinkedIn banner](https://github.com/Arnab-batsy/Arnab-batsy/assets/78913766/ce29b7d9-2b2e-4431-9409-d65379daf99f)
 
 <h1 align="center">Hi 👋, I'm Arnab Kumar Das</h1>
-<p align="center"> I'm a Front-end developer, Problem solver, Java Programmer and a Designer. Pursuing B.Tech in Information Technology from Kalyani Government Engineering College. I love to explore and learn new things. </p>
+<p align="center"> I'm a Front-end developer, Automation tester, Java Programmer and a Designer. Pursuing B.Tech in Information Technology from Kalyani Government Engineering College. I love to explore and learn new things. </p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Repo-List App](https://github.com/Arnab-batsy/Repo-List)
 
-- 👨‍💻 Former Front-End Developer Intern at [Suvidha Foundation](https://www.suvidhafoundationedutech.org/)
+- 👨‍💻 QA Automation Intern at [ARC Document Solutions](https://www.e-arc.com/location/arc-technology-center-india/)
 
 - 📫 My contact- **arnab.kumar.das3000@gmail.com**
 
