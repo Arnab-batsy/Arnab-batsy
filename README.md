@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Java, OOP, and Computer Networks.**
 
-- ⚡ Hobby- Sometimes I do music when I'm not coding: [Play!](https://www.youtube.com/@thearnabkumardas)
+- ⚡ Hobby- Sometimes I do [Music!](https://www.youtube.com/@thearnabkumardas)
 
 <h2 align="left">Connect with me:</h2>
 
