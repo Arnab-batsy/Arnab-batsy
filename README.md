@@ -1,7 +1,7 @@
 ![Github banner](https://github.com/user-attachments/assets/c5e37e51-fb14-412c-8cc0-061d88085d94)
 
 <h1 align="center">Hi 👋, I'm Arnab Kumar Das</h1>
-<p align="center"> I'm a Web developer, Automation tester, Java Programmer and a Designer. I've done B.Tech in Information Technology from Kalyani Government Engineering College. I love to explore and learn new things. </p>
+<p align="center"> I'm a Web developer, Java Programmer and a Designer. I've done B.Tech in Information Technology from Kalyani Government Engineering College. I love to explore and learn new things. </p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -9,19 +9,19 @@
 
 <p align="left"> <a href="https://linktr.ee/thearnabkumardas" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/My%20Links-applegreen?style=for-the-badge&logo=linktree&logoColor=black&logoSize=auto&labelColor=%2341df5d" alt="@thearnabkumardas" /></a> </p>
 
-- 🔭 I’m currently working on [Epiphany Mart](https://github.com/Arnab-batsy/Epiphany-mart)
+- 🔭 I’m currently working with a leading BFSI client on Salesforce Financial Services Cloud — building LWCs, automating workflows, and optimizing dashboards.
 
-- 🌱 I’m currently learning **Express.js, MongoDB, DBMS and DSA**
+- 🌱 I’m currently learning **ML, Python, DBMS and DSA**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 🤝 I’m looking for help with [Repo-List App](https://github.com/Arnab-batsy/Repo-List)
 
-- 👨‍💻 Ex QA Automation Intern at [ARC Document Solutions](https://www.e-arc.com/location/arc-technology-center-india/)
+- 👨‍💻 Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/)
 
-- 📫 My contact- **arnab.kumar.das3000@gmail.com**
+- 📫 My contact- **thearnabkumardas@gmail.com**
 
-- 📄 Know about my experiences- [My resume](https://drive.google.com/file/d/1OLUabQwDLQMyGRZKV4vC2NL7gmlaosm0/view?usp=sharing)
+- 📄 Know about my experiences- [My resume](https://drive.google.com/file/d/1CKdzym54dE-qJA9_2KwLXu0SiWxE2Ec3/view?usp=sharing)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Java, OOP, and Computer Networks.**
 
