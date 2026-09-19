@@ -73,7 +73,7 @@
 <hr>
 
 <h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/arghya_ad" target="_blank" rel="noopener noreferrer"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arghya_ad" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/thearnabkumardas" target="_blank" rel="noopener noreferrer"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arghya_ad" /></a></p><br><br>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-batsy&show_icons=true&locale=en&layout=compact" alt="arnab-batsy" /></p>
 
